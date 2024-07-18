@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+  background-image: url('restaurant.jpg');
+  background-size: cover;
+  color: white;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.jumbotron h1, .jumbotron p {
+  margin: 0;
+}
+
+#menu .card {
+  margin-bottom: 20px;
+}
+
+#about p {
+  max-width: 600px;
+  margin: auto;
+}
+
+footer {
+  background-color: #f8f9fa;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('nnn.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.8); /* Adds a semi-transparent white background to cards */
+    color: black; /* Ensures text within the card remains visible */
+}
+
+h2 {
+    color: white; /* Ensures the heading remains visible against the background image */
+        .nav-item {
+            background-color: #a9ca30; /* Fallback color */
+            background-image: url('path/to/your/image.jpg');
+            background-size: cover;
+            background-position: center; /* Center the background image */
+            background-repeat: no-repeat; /* Prevent the background image from repeating */
+        }
+      
+}
